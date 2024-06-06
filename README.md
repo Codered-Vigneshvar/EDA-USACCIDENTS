@@ -2,6 +2,8 @@
 
 This project involves an in-depth Exploratory Data Analysis (EDA) of the US-Accidents dataset, focusing on uncovering patterns and insights related to traffic accidents in the United States.
 [click here](Us_accidents.ipynb)
+------------------------------------
+[Download Dataset]([Us_accidents.ipynb](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents))
 
 
 ## Table of Contents
