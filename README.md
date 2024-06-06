@@ -147,7 +147,7 @@ git clone https://github.com/yourusername/us-accidents-eda.git
 cd us-accidents-eda
 
 # 3. Install the required dependencies:
-pip install -r requirements.txt
+pip install -numpy pandas matplotlib seaborn folium
 
 # 4. Run the Jupyter Notebook:
 jupyter notebook Us-accidents.ipynb
