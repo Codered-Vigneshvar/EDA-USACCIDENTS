@@ -1,6 +1,8 @@
 # US Accidents Exploratory Data Analysis
 
 This project involves an in-depth Exploratory Data Analysis (EDA) of the US-Accidents dataset, focusing on uncovering patterns and insights related to traffic accidents in the United States.
+[click here](Us_accidents.ipynb)
+
 
 ## Table of Contents
 
